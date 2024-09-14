@@ -1,0 +1,1 @@
+Developed a weather application using HTML, CSS, and JavaScript to provide real-time weather information. The app displays temperature and other weather details for specified locations by integrating a weather API. This project showcases skills in frontend development and API usage for dynamic data retrieval.
